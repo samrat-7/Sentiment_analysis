@@ -86,3 +86,10 @@ div.graph img{
   margin-bottom: 3em;
 
 }
+.copy {
+  text-align: right;
+  color: rgb(66, 63, 61);
+  padding-top: 22.1%;
+  font-size: smaller;
+}
+
