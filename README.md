@@ -13,3 +13,9 @@ The customer’s perception is your reality.
 But is it really possible to understand every comment?
 
 The answer is NO, an individual can’t do that, but what if he/she could do it?
+Wouldn’t it be fascinating to do that?
+It can be done using Natural Language Processing Technique (NLP).
+
+As we all know, that computer understands Binary language, i.e., the language of 0 and 1. But with the help of NLP, we can help it to understand the HUMAN LANGUAGE as it creates dummy variables for all the alphabets, and it has a word cloud net commonly known as Dictionary from where it learns about the different meaning of the words that we use.
+
+In simpler language, NLP is a process in which we make the computer understand our Human Language, then further we can perform any text analysis.
