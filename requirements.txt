@@ -1,6 +1,0 @@
-flask
-nltk
-requests
-scikit-learn
-vadersentiment
-gunicorn
